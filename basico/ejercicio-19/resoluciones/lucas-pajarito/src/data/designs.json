@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "artistId": 1,
+    "style": "realismo",
+    "price": 220
+  },
+  {
+    "id": 2,
+    "artistId": 1,
+    "style": "tradicional",
+    "price": 130
+  },
+  {
+    "id": 3,
+    "artistId": 2,
+    "style": "geometrico",
+    "price": 160
+  },
+  {
+    "id": 4,
+    "artistId": 1,
+    "style": "realismo",
+    "price": 360
+  }
+]
