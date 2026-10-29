@@ -1,0 +1,16 @@
+{
+  "name": "avanzado-ejercicio-07-lucas-pajarito",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Avanzado 07 - cache en memoria (tematica autos de lujo)",
+  "author": "lucas-pajarito",
+  "license": "ISC",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
