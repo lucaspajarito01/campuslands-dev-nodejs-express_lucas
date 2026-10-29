@@ -1,0 +1,13 @@
+{
+  "name": "basico-ejercicio-10-lucas-pajarito",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Ejercicio 10 - funciones asincronas (tematica pingpong)",
+  "author": "lucas-pajarito",
+  "license": "ISC",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
+  }
+}
