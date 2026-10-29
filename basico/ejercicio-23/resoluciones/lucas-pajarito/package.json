@@ -1,0 +1,16 @@
+{
+  "name": "basico-ejercicio-23-lucas-pajarito",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Ejercicio 23 - datos en memoria (tematica soldadura)",
+  "author": "lucas-pajarito",
+  "license": "ISC",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
