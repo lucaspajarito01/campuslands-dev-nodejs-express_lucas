@@ -1,12 +1,13 @@
 {
-  "name": "ejercicio-01",
+  "name": "basico-ejercicio-01-lucas-pajarito",
   "version": "1.0.0",
-  "description": "practica-01 de ejercicio de nodejs",
+  "type": "module",
+  "description": "Ejercicio 01 - Node runtime y consola (tematica videojuegos RPG)",
+  "author": "lucas-pajarito",
   "license": "ISC",
-  "author": "lucaspajarito2023-debug",
-  "type": "commonjs",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"
   }
 }
