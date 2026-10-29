@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Lucas Pajarito",
+    "position": "Armador",
+    "modality": "Futbol Sala",
+    "goals": 18
+  },
+  {
+    "id": 2,
+    "name": "Santiago Morales",
+    "position": "Delantero",
+    "modality": "Futbol 11",
+    "goals": 12
+  },
+  {
+    "id": 3,
+    "name": "Camilo Vargas",
+    "position": "Portero",
+    "modality": "Futbol Sala",
+    "goals": 1
+  }
+]
