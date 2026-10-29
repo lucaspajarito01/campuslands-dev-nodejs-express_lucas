@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Hamburguesa artesanal doble",
+    "price": 6.5
+  },
+  {
+    "id": 2,
+    "name": "Salchipapa especial",
+    "price": 5.0
+  },
+  {
+    "id": 3,
+    "name": "Tacos callejeros x3",
+    "price": 4.5
+  }
+]
