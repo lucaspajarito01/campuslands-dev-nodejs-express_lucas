@@ -1,0 +1,16 @@
+{
+  "name": "basico-ejercicio-30-lucas-pajarito",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Ejercicio 30 - proyecto integrador basico: taller de motos",
+  "author": "lucas-pajarito",
+  "license": "ISC",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
