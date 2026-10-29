@@ -1,0 +1,16 @@
+{
+  "name": "avanzado-ejercicio-09-lucas-pajarito",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Avanzado 09 - streams basicos (tematica kickboxing)",
+  "author": "lucas-pajarito",
+  "license": "ISC",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
